@@ -1,6 +1,6 @@
 Controls
 arrows=movement
-main mene
+main menu
 select=a
 back=b
 in game
